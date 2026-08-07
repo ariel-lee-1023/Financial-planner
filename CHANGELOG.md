@@ -5,6 +5,20 @@ All notable changes to this skill are documented here.
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.0] — 2026-08-07
+
+### Changed
+- **Lengthened all four book references and the synthesis** to study-depth density using the latest Books-to-Skill-Refs extraction discipline (structure over summary, author terminology, Mental Model → Frameworks by section → Worked Example → Decision Rules & Judgment → Key Takeaways).
+- `references/die-with-zero.md` — expanded from short summary to full nine-rule structural distillation with memory dividend, personal interest rate, survival threshold formula, time-bucketing, net-worth peak, and asymmetric-risk rule.
+- `references/value-of-debt.md` — expanded debt taxonomy table, L.I.F.E. glide-path phases, D/A bands by net-worth-to-income, securities-based lending 25% guardrail, three money buckets, and appendices (SBL, home financing, millennial guide).
+- `references/corporate-finance.md` — expanded NPV/opportunity-cost core, after-tax WACC, real-options justification for liquidity, household translation of capital-structure theory, and applicability limits.
+- `references/financial-planning-process.md` — expanded seven-step process, foundation hierarchy, behavioral/suitability overlay, wills/trusts/fiduciaries notes, and CFP alignment.
+- `references/synthesis-and-examples.md` — expanded six-gate decision tree, three fully worked examples (degree sequencing, mortgage vs. windfall, early-career bold move), and synthesizer decision rules.
+
+### Distillation notes
+- Sources: full extracted text of Perkins *Die with Zero*, Anderson *The Value of Debt in Building Wealth*, Brealey et al. *Principles of Corporate Finance* (14th), and front-matter/structure of Leimberg *Tools & Techniques of Financial Planning* (12th).
+- Method: Books-to-Skill-Refs (https://github.com/ariel-lee-1023/Books-to-Skill-Refs) study-depth template; never raw-copied; density over length; exact framework names preserved.
+
 ## [1.0.1] — 2026-08-07
 
 ### Changed
