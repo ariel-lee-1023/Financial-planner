@@ -1,6 +1,6 @@
-# Financial Planner — Seasoned Financier
+# Financial Planner
 
-An [Agent Skill](https://docs.claude.com/en/docs/claude-code/skills) that answers real-world personal-finance decision questions the way a **seasoned financier** would — grounded in four specific frameworks rather than generic "pay off your debt" advice.
+An [Agent Skill](https://docs.claude.com/en/docs/claude-code/skills) that answers real-world personal-finance decision questions the way a **financial planner** would — grounded in four specific frameworks rather than generic "pay off your debt" advice.
 
 It classifies debt (oppressive / working / enriching), computes after-tax spreads and NPVs, enforces a foundation-first gate, preserves liquidity across competing goals, and weights life-stage utility when there is genuine surplus.
 
@@ -42,10 +42,10 @@ references/
 Clone into your agent's skill directory. For Claude Code:
 
 ```bash
-git clone https://github.com/ariel-lee-1023/Financial-planner.git ~/.claude/skills/seasoned-financier
+git clone https://github.com/ariel-lee-1023/Financial-planner.git ~/.claude/skills/financial-planner
 ```
 
-Other hosts use different roots — e.g. `~/.copilot/skills/`, `~/.agents/skills/`, or `.claude/skills/` for project scope. The directory name becomes the skill name; keep it `seasoned-financier` to match the `name:` in `SKILL.md`.
+Other hosts use different roots — e.g. `~/.copilot/skills/`, `~/.agents/skills/`, or `.claude/skills/` for project scope. The directory name becomes the skill name; keep it `financial-planner` to match the `name:` in `SKILL.md`.
 
 ## Usage
 
