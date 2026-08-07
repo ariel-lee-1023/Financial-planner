@@ -46,7 +46,7 @@ Priority is **conditional on where the client sits**, not fixed:
 degree in ~3 years. Should I pay tuition in cash, take the student loan, or something
 else?"
 
-**How the Seasoned Financier reasons:**
+**How the Financial Planner reasons:**
 
 1. **Goals & timelines (Leimberg 1–2):** Goal A = degree now; Goal B = degree in ~3 yrs
    (probability p, cost estimate). Both are *cash-flow-timing* goals. Clarify amounts,
